@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Car Show</string>
+    <string name="Text">Car List</string>
+    <string name="carName">Mercedes-Benz E-300</string>
+    <string name="carInfo">2020, 4.8f, 30000km</string>
+    <string name="btn1">Show Details</string>
+</resources>
